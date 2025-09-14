@@ -71,6 +71,10 @@ this is a test message
 
 Feel free to fork this project and submit pull requests for improvements!
 
+## ⬆️ Changes
+
+See the CHANGELOG.md file
+ 
 ## 📄 License
 
 This project is open source and available under the MIT License.
