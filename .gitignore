@@ -127,7 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# Custom files to ignore
-old_versions.zip
-backup.py
