@@ -21,7 +21,7 @@ pip install nltk
 
 1. Run the program:
 ```bash
-python main.py
+python improved.py
 ```
 
 2. Enter your encrypted message:
@@ -76,5 +76,6 @@ Feel free to fork this project and submit pull requests for improvements!
 See the CHANGELOG.md file
  
 ## 📄 License
+
 
 This project is open source and available under the MIT License.
